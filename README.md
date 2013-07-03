@@ -4,6 +4,8 @@
 
 Install [OSXFuse](http://osxfuse.github.io), that allows you to extend OS X's native file handling capabilities via third-party file systems.
 
+_Checkout [puppet-ntfs_3g](http://github.com/MoOx/puppet-ntfs_3g) to add NTFS support to OS X._
+
 ## Usage
 
 ```puppet
