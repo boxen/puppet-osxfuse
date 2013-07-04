@@ -1,6 +1,6 @@
 # OSXFuse Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/jverdeyen/puppet-osxfuse.png?branch=master)](https://travis-ci.org/jverdeyen/puppet-osxfuse)
+[![Build Status](https://travis-ci.org/boxen/puppet-osxfuse.png?branch=master)](https://travis-ci.org/boxen/puppet-osxfuse)
 
 Install [OSXFuse](http://osxfuse.github.io), that allows you to extend OS X's native file handling capabilities via third-party file systems.
 
