@@ -5,7 +5,7 @@
 #   include osxfuse
 class osxfuse {
   package { 'OSXFuse':
-    source   => 'http://kent.dl.sourceforge.net/project/osxfuse/osxfuse-2.6.2/osxfuse-2.6.2.dmg',
+    source   => 'http://downloads.sourceforge.net/project/osxfuse/osxfuse-2.6.4/osxfuse-2.6.4.dmg',
     provider => 'pkgdmg'
   }
 }
